@@ -8,6 +8,3 @@
 5555555
 9999999
 0000000
-qqqqqq
-wwwwwww
-zzzzzz
